@@ -8,7 +8,7 @@ A data warehouse for a partner company. A Tableau dashboard was developed to sho
 Includes:  
 PDF technical report
 
-## 2. [Gawad Kalinga Volunteer Registration System](https://github.com/your-username/your-repository/tree/main/A%20Data%20Warehouse%20for%20a%20Telehealth%20Appointment%20System)
+## 2. [Gawad Kalinga Volunteer Registration System](https://github.com/nicoledaphneong/PurpleBug-Portfolio/tree/main/Gawad%20Kalinga%20Volunteer%20Registration%20System)
 Original Repository for the project can be viewed [here](https://github.com/LanzL20/CSSWENG-X-GK)  
 
 
@@ -30,7 +30,7 @@ University students to interact with each other
 Deployed website can be viewed [here](https://animo-forum.onrender.com)  
 Original Repository for the project can be viewed [here](https://github.com/TheBanana03/The-Superior-CCAPDEV-repository)
 
-## 5. Investigating COVID Vaccination vs Mortality Data
+## 5. [Investigating COVID Vaccination vs Mortality Data](https://github.com/nicoledaphneong/PurpleBug-Portfolio/tree/main/Investigating%20COVID%20Vaccination%20vs%20Mortality%20Data)
 Visualized and analyzed the COVID vaccinations and deaths in
 Southeast Asia to derive insights for future healthcare using Jupyter Notebook.
 
